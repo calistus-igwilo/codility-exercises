@@ -6,4 +6,5 @@
 <li>Fibonacci</li>
 <li>Integer to Binary</li>
 <li>Binary Gap</li>
+<li>Factorial</li>
 </ol>
